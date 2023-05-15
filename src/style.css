@@ -1,0 +1,88 @@
+body {
+  background-color: #282d35;
+}
+
+#app--card {
+  width: 20rem;
+  border-radius: 15px;
+  background-color: #21222a;
+  color: white;
+  margin-right: auto;
+}
+
+#main--card-body {
+  text-align: center;
+}
+
+#emailbtn {
+  margin-right: 15px;
+  width: 120px;
+}
+
+#emailbtn > i {
+  padding-right: 10px;
+}
+
+#linkedinbtn {
+  width: 120px;
+}
+
+#linkedinbtn > i {
+  padding-right: 10px;
+}
+
+#card--occupation {
+  line-height: 0.5;
+  color: orange;
+}
+
+#about {
+  margin-top: -10px;
+  font-size: 14px;
+}
+
+#interests {
+  margin-top: -10px;
+  font-size: 14px;
+}
+
+#website-link {
+  font-size: 14px;
+}
+
+.card {
+  grid-row: 2/3;
+  grid-column: 2/3;
+  margin: 0 auto;
+  margin-top: 2rem;
+  display: grid;
+}
+
+.card--buttons {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.footer--list {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer--list > li {
+  margin-right: auto;
+  padding-top: 30px;
+}
+
+.footer--list > li > a > i {
+  color: gray;
+}
+
+.about-div {
+  padding: 20px;
+}
+
+.interests-div {
+  padding: 20px;
+}
