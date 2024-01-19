@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-soloproject1/static/css/main.1541958b.css",
+    "main.js": "/react-soloproject1/static/js/main.c85c8ed7.js",
+    "static/media/me2.png": "/react-soloproject1/static/media/me2.e24c76c0bcb33bcbecf8.png",
+    "index.html": "/react-soloproject1/index.html",
+    "main.1541958b.css.map": "/react-soloproject1/static/css/main.1541958b.css.map",
+    "main.c85c8ed7.js.map": "/react-soloproject1/static/js/main.c85c8ed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1541958b.css",
+    "static/js/main.c85c8ed7.js"
+  ]
+}
